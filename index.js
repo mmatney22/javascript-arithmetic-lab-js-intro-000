@@ -16,5 +16,5 @@ function divide (a, b) {
 
 var number = 199
 function inc() {
-  number++ ;
+  number++ 
 }
