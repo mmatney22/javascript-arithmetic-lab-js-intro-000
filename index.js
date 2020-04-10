@@ -14,7 +14,7 @@ function divide (a, b) {
   return (a / b);
 }
 
-var number = n
+var number = 199
 function inc() {
   number++ ;
 }
